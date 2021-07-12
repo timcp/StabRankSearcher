@@ -1,0 +1,4 @@
+numpy
+netsquid
+qiskit-terra
+qiskit-ibmq-provider
