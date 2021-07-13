@@ -2,11 +2,12 @@ StabRankSearcher: code for finding (upper bounds to) the stabilizer rank of a qu
 ===========================================================================================
 
 Heuristic algorithm for searching for (an upper bound to) the stabilizer rank of a quantum state, i.e. the minimal number of stabilizer states needed to write the quantum state as linear combination.
-The algorithm is by [Bravyi, Smith and Smolin](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.021043).
+The implementation is from Tim Coopmans, and the underlying algorithm is originally by [Bravyi, Smith and Smolin](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.021043).
 We used this algorithm for finding the stabilizer rank of Dicke states, see our work
 
 *LIMDD: A Decision Diagram for Simulation of Quantum Computing Including Stabilizer States*
-Lieuwe Vinkhuijzen, Tim Coopmans, Vedran Dunjko, David Elkouss, Alfons Laarman
+
+Lieuwe Vinkhuijzen, Tim Coopmans, David Elkouss, Vedran Dunjko, Alfons Laarman
 
 
 Installation
